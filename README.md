@@ -51,17 +51,9 @@
 </div>
 </body>
 
-## 📊 GitHub Stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamtemtomm&theme=gradient-purple)](https://github.com/alieffsl/github-readme-stats)
-
-[![Tamtemtom's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamtemtomm&show_icons=true&theme=gradient-purple)](https://github.com/alieffsl/github-readme-stats)
-
 ## 🤝 Let's Connect
 
 - LinkedIn: [Timo](https://www.linkedin.com/in/timo-widyanvolta-35a276217/)
 - Email: [tamtemtom](tamtemtom235@gmail.com)
   
 Feel free to reach out for collaborations, interesting projects, or just to have a chat! 😊
-
-![Visitor Count](https://profile-counter.glitch.me/tamtemtomm/count.svg)
